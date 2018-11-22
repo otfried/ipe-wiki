@@ -11,5 +11,9 @@ This gives you the possibility to open the file with Ipe, to modify
 it, and to export it to a standard vector format such as pdf.
 
 If your program happens to be written in Java, you can take advantage
-of th small Java library [IpeDraw](IpeDraw.java) contributed by
+of the small Java library [IpeDraw](IpeDraw.java) contributed by
 Philipp Kindermann and Martin Fink.
+
+Dongliang Peng has translated IpeDraw into language C#.
+He is improving the C# version, [CIpeDraw](https://github.com/IGNF/ContinuousGeneralisation/blob/master/ContinuousGeneralizer/MorphingClass/CUtility/CIpeDraw.cs), 
+from time to time.
